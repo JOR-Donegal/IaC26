@@ -1,4 +1,4 @@
-site_name: Template
+site_name: Infrastructre as Code
 site_url: https://example.com
 theme:
   name: material
