@@ -1,6 +1,6 @@
 # Introduction
 
-!!! abstract "Introduction to Stuff"
+!!! abstract "Infrastructure as Code"
 
 This will be the main introduction page
 

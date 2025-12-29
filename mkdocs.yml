@@ -1,7 +1,7 @@
 site_name: Infrastructre as Code
 site_url: https://example.com
 theme:
-  name: material
+  name: bootstrap4
   
   
   font: 
