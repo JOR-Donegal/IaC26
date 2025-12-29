@@ -1,4 +1,4 @@
-site_name: Infrastructre as Code
+site_name: Infrastructre as Code for MSc
 site_url: https://example.com
 theme:
   name: readthedocs
@@ -13,16 +13,16 @@ theme:
     - content.code.copy
   
   palette:
-    # Darm Mode
+    # Dark Mode
     - scheme: slate
-      primary: green
+      primary: indigo
       accent: red
       toggle:
         icon: material/weather-night
         name: Switch to light mode
       # Light Mode
     - scheme: default
-      primary: blue
+      primary: yellow
       accent: red
       toggle:
         icon: material/weather-sunny
