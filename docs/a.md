@@ -3,4 +3,4 @@ I have covered [Getting Started](https://jor-donegal.github.io/GettingStarted26)
 
 So for this week, just some (light!) reading.
 
-1. Read my background to general computing
+1. Read my background to general computing.
