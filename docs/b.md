@@ -1,0 +1,2 @@
+# Week 2
+I need you to be able to use a basic virtualization technology before we can continue. In a previous module, you should have covered VMWare Workstation. This week I want you to familiarize yourself with Hyper-V. Do NOT install this on any computer which has VMWare Workstation! These tools do not always play well together.
