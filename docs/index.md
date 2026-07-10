@@ -12,7 +12,7 @@ The major areas covered in weeks 2-11 are
 - IaC Management
 - Trends
 
-However, I must introduce working at the command prompt in DOS, Powershell and Linux and we will spend much time on this. As a scripting language, we will also focus on python.
+However, I must introduce working at the command prompt in DOS, Powershell and Linux and we will spend much time on this. As a scripting language, we will also focus on Python.
 
 I reserve week 12/13 for clean up at the end...or run over time if we need it.
 
