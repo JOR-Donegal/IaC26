@@ -7,7 +7,7 @@ I reserve week 1 for introductions and getting started.
 
 The major areas covered in weeks 2-11 are
 
-- Infrastructure Automation
+- Infrastructure
 - Automation
 - IaC Management
 - Trends
