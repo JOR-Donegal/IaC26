@@ -12,4 +12,3 @@ After two years of experimentation, this is a new dedicated teaching account as 
 Retirement is hopefully not too far away! I want the notes to be available to my students after I retire, this is one way to do so.
 
 Contact me via my University e-mail address or via my LinkedIn account.
-
