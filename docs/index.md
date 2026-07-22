@@ -26,4 +26,4 @@ The content of these notes are (c) John ORaw 2026.
 
 I have tried to acknowledge and cite sources, if you think I have missed crediting someone else's work, please contact me by university e-mail and I will remedy. 
 
-If you find errors in my notes or something has been superseded without me noticing, please let me know. The pace of technological development assures that my notes have a very short shelf life. They are intended to be a starting point for your studies, not the end point.
+If you find errors in my notes or something has been superseded without me noticing, please let me know. The pace of technological development assures that my notes have a very short shelf life. They are intended to be a starting point for your studies, not the end point. Use them as the basis for your independent study, they are an introduction to what you need to know only.
