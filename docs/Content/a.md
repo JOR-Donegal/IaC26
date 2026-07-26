@@ -30,10 +30,11 @@ Not true.
 
 If you are an expert in scripting or coding and you have expertise in the domain in which you are working, then you understand what you are doing. Add in modern AI tools, and your efficiency goes through the roof!
 
-You still need to understand the overall project, you need to know how to correctly prompt the tools you're using for assistance, and you need to understand the code that comes back from the tool set you are using. You need to know how to test that code to make sure it does what you intended. For me, modern AI tools allow a smart person to be very very productive. 
+You still need to understand the overall project, you need to know how to correctly prompt the tools you're using for assistance, and you need to understand the code that comes back from the tool set you are using. You need to know how to test that code to make sure it does what you intended. For me, modern AI tools allow a smart person to be very very productive.
 
 In this module, I aim to start making you that smart person. At the end of the module, once you know how to script and test, then we can introduce the tool sets that in reality we will all use in a production environment.
 
-For this week, there are some links below to some (light!) reading.
+For this week, there are some links below to some (light!) reading. This is not examinable, it is background, primarily targeted at people who have not formally done Computer Architecture at under-graduate level. The material covered here is based on questions I have been asked over the years relating to the background to the examinable material. If you have previously done an undergraduate programme in computing, this will be light revision.
 
-1. Read my background to general computing.
+1. Read my background to [CPU Basics](https://jor-donegal.github.io/CPUBasics26/).
+2. As a follow on, some of the optimizations in [CPU Design](https://jor-donegal.github.io/CPUDesign26/) to make a processor usable.
