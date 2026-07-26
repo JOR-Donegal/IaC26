@@ -34,7 +34,7 @@ You still need to understand the overall project, you need to know how to correc
 
 In this module, I aim to start making you that smart person. At the end of the module, once you know how to script and test, then we can introduce the tool sets that in reality we will all use in a production environment.
 
-For this week, there are some links below to some (light!) reading. This is not examinable, it is background, primarily targeted at people who have not formally done Computer Architecture at under-graduate level. The material covered here is based on questions I have been asked over the years relating to the background to the examinable material. If you have previously done an undergraduate programme in computing, this will be light revision.
+For this week, there are some links below to some reading. This is not examinable, it is background, primarily targeted at people who have not formally done Computer Architecture at under-graduate level. The material covered here is based on questions I have been asked over the years in this programme relating to the background to the examinable material. If you have previously done an undergraduate programme in computing, this will be light revision.
 
 1. Read my background to [CPU Basics](https://jor-donegal.github.io/CPUBasics26/).
 2. As a follow on, some of the optimizations in [CPU Design](https://jor-donegal.github.io/CPUDesign26/) to make a processor usable.
