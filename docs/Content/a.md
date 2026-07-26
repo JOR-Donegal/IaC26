@@ -4,9 +4,9 @@ I provide a link to my [Getting Started](https://jor-donegal.github.io/GettingSt
 
 So what is _Infrastructure as code_?
 
-Long ago I used to teach separate modules in topics associated with systems engineering at undergraduate level. We would always have a stream of networking modules which went from basic communications theory to advanced modern secure networking. We might have a separate subject in computer architecture, which would get us from the basics all the way through to understanding the specification of a modern server. And then operating systems, covering Windows and Linux was a separate subject again. And the systems engineering of both of those topics was yet another specialized subject. And don't get me started on firewalls! As a collective way of describing these topics, I've been using the term technical infrastructure for many years.
+Long ago I used to teach separate modules in topics associated with systems engineering at undergraduate level. We would always have a stream of networking modules which went from basic communications theory to advanced modern secure networking. We might have a separate subject in computer architecture, which would get us from the basics all the way through to understanding the specification of a modern server. And then operating systems, covering Windows and Linux was a separate subject again. And the systems engineering of both of those topics was yet another specialized subject. And don't get me started on firewalls! As a collective way of describing these topics, we use the term _technical infrastructure_.
 
-But then everything changed and from 2006 onwards, we've had the capability of producing these server instances and network appliances as virtual devices. It's what cloud computing is all about. If you need a server or a network switch or a firewall, you just create it as a virtual device.
+But then everything changed and from 2006 onwards, we've had the capability of producing these server instances and network appliances as _virtual devices_. It's what _cloud computing_ is all about. If you need a server or a network switch or a firewall, you just create it as a virtual device; an appliance which lives and executes in the memory of another computer.
 
 For a range of reasons, it is advantageous for us to be able to script the creation of all these devices and their configuration.
 
@@ -20,11 +20,11 @@ A proven and tested script allows me to configure an appliance instance in a par
 
 A final step. In the world of coding, we have the concept of _continuous integration and continuous delivery_ (CI/CD). I make a change to my code, and I press go! The code change is tested then its integration with other modules is also tested. It's automatically pushed to a test environment where other processes can evaluate its suitability for release. If it's accepted for release it can automatically roll to a deployment stage. We've been doing all of this in an automated way for years. If our infrastructure is a group of scripts and configuration files, we can do the same thing with it.
 
-A final word. 
+A final word.
 
-What about AI? 
+What about AI?
 
-Surely nobody needs to do scripting or even programming anymore? 
+Surely nobody needs to do scripting or even programming anymore?
 
 Not true.
 
