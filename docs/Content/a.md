@@ -18,7 +18,21 @@ For a range of reasons, it is advantageous for us to be able to script the creat
 
 A proven and tested script allows me to configure an appliance instance in a particular context. But it can also be the basis for large scale automation. If I know how to configure Apache securely on an Ubuntu instance, I just need to add a little automation to do that at scale on 200 servers. And I can also script that automation!
 
-A final step. In the world of coding, we have the concept of continuous integration and continuous deployment. I make a change to my code, and I press go! The code changes tested then its integration with other modules is also tested. It's automatically pushed to a test environment where other processes can evaluate its suitability for release. If it's accepted for release it can automatically roll to a deployment stage. We've been doing all of this in an automated way for years. If our infrastructure is a group of scripts and configuration files, we can do the same thing with it.
+A final step. In the world of coding, we have the concept of _continuous integration and continuous delivery_ (CI/CD). I make a change to my code, and I press go! The code change is tested then its integration with other modules is also tested. It's automatically pushed to a test environment where other processes can evaluate its suitability for release. If it's accepted for release it can automatically roll to a deployment stage. We've been doing all of this in an automated way for years. If our infrastructure is a group of scripts and configuration files, we can do the same thing with it.
+
+A final word. 
+
+What about AI? 
+
+Surely nobody needs to do scripting or even programming anymore? 
+
+Not true.
+
+If you are an expert in scripting or coding and you have expertise in the domain in which you are working, then you understand what you are doing. Add in modern AI tools, and your efficiency goes through the roof!
+
+You still need to understand the overall project, you need to know how to correctly prompt the tools you're using for assistance, and you need to understand the code that comes back from the tool set you are using. You need to know how to test that code to make sure it does what you intended. For me, modern AI tools allow a smart person to be very very productive. 
+
+In this module, I aim to start making you that smart person. At the end of the module, once you know how to script and test, then we can introduce the tool sets that in reality we will all use in a production environment.
 
 For this week, there are some links below to some (light!) reading.
 
