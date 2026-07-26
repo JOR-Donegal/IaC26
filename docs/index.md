@@ -3,7 +3,7 @@
 !!! abstract "Infrastructure as Code (L9)"
 
 Welcome to this module, Infrastructure as Code (IaC). I plan and orchestrate my modules with 10 weeks of content, weeks 2-11.
-I reserve week 1 for introductions and getting started.
+I reserve week 1 for introductions and getting started. I also use week 1 for background reading to support the module.
 
 The major areas covered in weeks 2-11 are
 
