@@ -26,8 +26,10 @@ Surely nobody needs to do scripting or even programming anymore?
 
 Not true.
 
-If you are an expert in scripting or coding and you have expertise in the domain in which you are working, then you understand what you are doing. Add in modern AI tools, and your efficiency goes through the roof!
-
-You still need to understand the overall project, you need to know how to correctly prompt the tools you're using for assistance, and you need to understand the code that comes back from the tool set you are using. You need to know how to test that code to make sure it does what you intended. For me, modern AI tools allow a smart person to be very very productive.
+If you are an expert in scripting or coding and you have expertise in the domain in which you are working, then you understand what you are doing. Add in modern AI tools, and your efficiency and productivity are enhanced. You still need to understand the overall project, you need to know how to correctly prompt the tools you are using for assistance, and you need to understand the code that comes back from the tool set you are using. You need to know how to test that code to make sure it does what you intended. Modern AI tools allow a smart person to be very very productive.
 
 In this module, I aim to start making you that smart person. At the end of the module, once you know how to script and test, then we can introduce the tool sets that in reality we will all use in a production environment.
+
+In these documents, there are several key terms. These will be _italicized_. You may need to look up these terms to get a full understanding of them. Commands are generally shown in __bold__.
+
+In these notes, an _ISO file_ is an image of a DVD used for installation purposes.
