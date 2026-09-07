@@ -1,6 +1,6 @@
 # Week 4
 
-GIT and GITHUB
+## GIT and GITHUB
 
 Most developers use version control when the initiate a project. The more complex the project and the more coders, the more attention we need to give to version control and tracking. The starting point is to get an introduction to the most commonly used version control system, [GIT](https://jor-donegal.github.io/git26/).
 

@@ -1,6 +1,6 @@
 # Week 3
 
-This week we are going to build a workstation suitable for coding this module, in Ubuntu. 
+This week we are going to build a workstation suitable for coding this module, in Ubuntu.
 You have previously created a VM in Ubuntu 24.04 desktop, during the VMWare Workstation exercises.
 Clone that now as __ub2404-js1__
 
