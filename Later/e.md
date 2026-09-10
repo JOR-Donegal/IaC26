@@ -4,7 +4,7 @@ This week, we are going to work at the command prompt and get the first scriptin
 
 When we are working on OS scripting, we need to begin by being able to work at the __command line interface__ (CLI) and then move on to create reusable scripts based on our knowledge of the underlying commands.
 
-Begin by understanding how to use the command prompt.
+Begin by understanding how to use the [command prompt](https://jor-donegal.github.io/CommandPrompt26/). For most students, this is just a recap.
 
 Then move on to automating this by creating and executing batch files. Personalize these batch files, change the names, dates and adjust how they work. Save these.
 
