@@ -7,4 +7,4 @@ Clone that now as __ub2404-js1__
 Read through my notes on [Workstations](https://jor-donegal.github.io/Workstation26/).
 In the Jump Server notes, figure out which steps you need to carry out, do them and test.
 
-Clone __ub2404-js1__ to __ub2404-dev1__ and carry out the steps in the Development section of my workstation notes, then test.
+Clone __ub2404-js1__ to __ub2404-dev1__ and carry out the steps in the Development section of my workstation notes, then test. You do not need Docker or GNS3 for now.

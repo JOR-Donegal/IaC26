@@ -9,4 +9,3 @@ We will be using Markdown for documentation, [This](https://www.markdownguide.or
 If our customer allows us to keep code in the public Internet, we will use a web hosted system like GITHUB. There are security implications! Every open source project I do in Academia, lives in GITHUB. Closed source project do not, or have very definite security policies and configuration. Review my notes and exercises on [GITHUB](https://jor-donegal.github.io/github26/) 
 
 If you have not used GIT/GITHUB before, this may be a heavy week's work and will drag into next week. I'll keep next week lighter!
- 
