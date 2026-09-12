@@ -6,7 +6,7 @@ When we are working on OS scripting, we need to begin by being able to work at t
 
 Begin by understanding how to use the [command prompt](https://jor-donegal.github.io/CommandPrompt26/). For most students, this is just a recap.
 
-Then move on to automating this by creating and executing batch files. Personalize these batch files, change the names, dates and adjust how they work. Save these.
+Then move on to automating this by creating and executing [batch files](https://jor-donegal.github.io/BatchFiles26/). Personalize these batch files, change the names, dates and adjust how they work. Save these.
 
 Create a folder called DOS in your repo and when complete, upload a brief report in a PDF format. Each batch file should be included in an appendix, along with a screen shot of it running. I will talk through how to approach this report, do not submit it until I have done so.
 
