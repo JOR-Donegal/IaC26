@@ -8,6 +8,6 @@ Begin by understanding how to use the [command prompt](https://jor-donegal.githu
 
 Then move on to automating this by creating and executing batch files. Personalize these batch files, change the names, dates and adjust how they work. Save these.
 
-Create a folder called DOS in your repo and when complete, upload a brief report in a PDF format. Each batch file should be included in an appendix, along with a screen shot of it running.
+Create a folder called DOS in your repo and when complete, upload a brief report in a PDF format. Each batch file should be included in an appendix, along with a screen shot of it running. I will talk through how to approach this report, do not submit it until I have done so.
 
 Remember, when you submit work in GITHUB, you need to make a submission of the link through Blackboard.
