@@ -1,6 +1,6 @@
 # Week 2
 
-I need you to be able to use a basic virtualization technology before we can continue. We will use VMWare Workstation. Do NOT install this on any computer which has Hyper-V.
+I need you to be able to use a basic virtualization technology before we can continue. We will use VMWare Workstation. Do NOT install this on any computer which has Hyper-V. For e-delivery students, we need to talk about this!
 
 These tools do not always play well together.
 
