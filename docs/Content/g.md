@@ -2,7 +2,7 @@
 
 This week, we are going to work at the command prompt again! This time using __PowerShell__ as our environment.
 
-When we are working on OS scripting, we need to begin by being able to work at the command prompt and then move on to creating reusable scripts based on our knowledge of the underlying commands. Run through these exercises and notes.
+When we are working on OS scripting, we need to begin by being able to work at the command prompt and then move on to creating reusable scripts based on our knowledge of the underlying commands. Run through [these exercises and notes](https://jor-donegal.github.io/PowerShell7/).
 
 Begin by understanding how to use the PowerShell command prompt and a basic editor (ISE).
 
