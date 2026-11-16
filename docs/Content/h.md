@@ -2,7 +2,7 @@
 
 Over the past few weeks, we have developed foundation skills in operating systems scripting and we know how to build the environments to exercise these skills. 
 
-For these three weeks, we are going to focus on a single programming language, _Python_. 
+For these three weeks, we are going to focus on a single programming language, _Python_. My notes are [here](https://jor-donegal.github.io/Python26/)
 
 So is this programming or scripting? 
 
